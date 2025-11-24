@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698077454704",
+    "project_id": "location-tracker-app-naresh",
+    "storage_bucket": "location-tracker-app-naresh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698077454704:android:6c28c169e32f8f8b7c6fb5",
+        "android_client_info": {
+          "package_name": "com.example.location_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAAjeWxfWfSLIyJRTlymawOe19JC-txA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
