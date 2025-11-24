@@ -46,6 +46,7 @@ android/
 
 .env                                 # 🔒 NOT COMMITTED (local env vars, if used)
 .gitignore                           # ignores secret files
+```
 
 ✅ 1. Prerequisites
 Make sure you have:
