@@ -231,19 +231,18 @@ Requirements:
 
 ## 📸 Screenshots
 
-Use HTML to resize:
-
-```html
-<img src="IMAGE_URL" width="350" />
-```
-
 Examples:
 
-![Database Connection Successful]<img src="https://github.com/user-attachments/assets/ae45c230-c9a6-4449-8ded-2055b9052ef6" width="300" />
-![Google Maps](<img src="https://github.com/user-attachments/assets/564ad938-2800-4ac0-8153-7417b26c3ffc" width="300" />)
-![Slider](<img src="https://github.com/user-attachments/assets/e18581a4-e8c6-47a5-93ae-25ace5f78fb1" width="300" />)
-![Locations Saving](<img src="https://github.com/user-attachments/assets/a62252b2-31cf-4366-9822-ffc7c5df87e4" width="300" />)
-![Marking our location](<img src="https://github.com/user-attachments/assets/b031b16d-fe96-4b54-94d3-872aa87b4adc" width="300" />)
+# Database Connection Successful
+<img src="https://github.com/user-attachments/assets/ae45c230-c9a6-4449-8ded-2055b9052ef6" width="300" />
+# Google Maps
+<img src="https://github.com/user-attachments/assets/564ad938-2800-4ac0-8153-7417b26c3ffc" width="300" />
+# Slider
+<img src="https://github.com/user-attachments/assets/e18581a4-e8c6-47a5-93ae-25ace5f78fb1" width="300" />
+# Locations Saving
+<img src="https://github.com/user-attachments/assets/a62252b2-31cf-4366-9822-ffc7c5df87e4" width="300" />
+# Marking our location
+<img src="https://github.com/user-attachments/assets/b031b16d-fe96-4b54-94d3-872aa87b4adc" width="300" />
 
 ---
 
