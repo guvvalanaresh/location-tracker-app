@@ -394,11 +394,11 @@ You can add screenshots later, for example:
 | Home (Live Map) | History View |
 |-----------------|-------------|
 
-[!Firebase Connection]<img width="494" height="561" alt="Ui-1" src="https://github.com/user-attachments/assets/ae45c230-c9a6-4449-8ded-2055b9052ef6" />
-[!Getting Maps]<img width="366" height="690" alt="Ui-2" src="https://github.com/user-attachments/assets/564ad938-2800-4ac0-8153-7417b26c3ffc" />
-<img width="1080" height="2424" alt="Ui-3" src="https://github.com/user-attachments/assets/e18581a4-e8c6-47a5-93ae-25ace5f78fb1" />
-<img width="723" height="218" alt="Ui-3-output" src="https://github.com/user-attachments/assets/a62252b2-31cf-4366-9822-ffc7c5df87e4" />
-<img width="1080" height="2424" alt="Ui-4" src="https://github.com/user-attachments/assets/b031b16d-fe96-4b54-94d3-872aa87b4adc" />
+![Firebase Connection](https://github.com/user-attachments/assets/ae45c230-c9a6-4449-8ded-2055b9052ef6)
+![Getting Maps](https://github.com/user-attachments/assets/564ad938-2800-4ac0-8153-7417b26c3ffc)
+![Slider](https://github.com/user-attachments/assets/e18581a4-e8c6-47a5-93ae-25ace5f78fb1)
+![Location Saving Output](https://github.com/user-attachments/assets/a62252b2-31cf-4366-9822-ffc7c5df87e4)
+![Marker location at that hour](https://github.com/user-attachments/assets/b031b16d-fe96-4b54-94d3-872aa87b4adc)
 
 
 🔐 12. Summary of Security
